@@ -1,0 +1,48 @@
+{
+  "item.wardentools.sculkified_netherite_axe": "Sculklaşmış Netherit Balta",
+  "item.wardentools.sculkified_netherite_pickaxe": "Sculklaşmış Netherit Kazma",
+  "item.wardentools.sculkified_netherite_sword": "Sculklaşmış Netherit Kılıç",
+  "item.wardentools.sculkified_netherite_shovel": "Sculklaşmış Netherit Kürek",
+  "item.wardentools.sculkified_netherite_hoe": "Sculklaşmış Netherit Çapa",
+  "item.wardentools.sculkified_netherite_helmet": "Sculklaşmış Netherit Kask",
+  "item.wardentools.sculkified_netherite_chestplate": "Sculklaşmış Netherit Göğüslük",
+  "item.wardentools.sculkified_netherite_leggings": "Sculklaşmış Netherit Pantolon",
+  "item.wardentools.sculkified_netherite_boots": "Sculklaşmış Netherit Bot",
+
+  "item.wardentools.warden_axe": "§bMuhafız Balta",
+  "item.wardentools.warden_pickaxe": "§bMuhafız Kazma",
+  "item.wardentools.warden_sword": "§bMuhafız Kılıç",
+  "item.wardentools.warden_shovel": "§bMuhafız Kürek",
+  "item.wardentools.warden_hoe": "§bMuhafız Kürek",
+  "item.wardentools.warden_helmet": "§bMuhafız Kask",
+  "item.wardentools.warden_chestplate": "§bMuhafız Göğüslük",
+  "item.wardentools.warden_leggings": "§bMuhafız Pantolon",
+  "item.wardentools.warden_boots": "§bMuhafız Bot",
+
+  "item.wardentools.sculk_apple": "Sculk Elma",
+  "item.wardentools.heart_of_the_warden": "§bMuhafız'ın Kalbi",
+  "item.wardentools.soul_of_the_warden": "§bMuhafız'ın Ruhu",
+
+
+  "itemGroup.wardentools.warden_tools": "Warden Tools",
+
+  "block.wardentools.sculk_crystal_block": "Sculk Kristali Bloğu",
+  "block.wardentools.budding_sculk": "Tomurcuklanan Sculk",
+  "block.wardentools.echo_cluster": "Yankı Demeti",
+  "block.wardentools.echo_bud": "Yankı Tomurcuğu",
+
+  "item.wardentools.disc_fragment_fizz": "Disk Parçası",
+  "item.wardentools.disc_fragment_fizz.desc": "Müzik Diski - Fizz",
+  "item.wardentools.music_disc_fizz": "§bMüzik Diski",
+  "item.wardentools.music_disc_fizz.desc": "Johan Johnson & Peter Hont - Fizz",
+
+  "item.wardentools.disc_fragment_astray_archipelago": "Disk Parçası",
+  "item.wardentools.disc_fragment_astray_archipelago.desc": "Müzik Diski - Astray Archipelago",
+  "item.wardentools.music_disc_astray_archipelago": "§bMüzik Diski",
+  "item.wardentools.music_disc_astray_archipelago.desc": "Peter Hont - Astray Archipelago",
+
+  "block.wardentools.loot_vase": "Antik Ganimet Vazosu",
+  "block.wardentools.echo_lantern": "Yankı Feneri",
+
+  "item.wardentools.echo_staff": "§bYankı Asası"
+}

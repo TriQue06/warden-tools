@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "wardentools:sculk_crystal_block",
+    "wardentools:echo_bud",
+    "wardentools:echo_cluster",
+    "wardentools:budding_sculk"
+  ]
+}

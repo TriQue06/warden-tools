@@ -1,0 +1,18 @@
+{
+  "astray_archipelago": {
+    "sounds": [
+      {
+        "name": "wardentools:astray_archipelago",
+        "stream": true
+      }
+    ]
+  },
+  "fizz": {
+    "sounds": [
+      {
+        "name": "wardentools:fizz",
+        "stream": true
+      }
+    ]
+  }
+}

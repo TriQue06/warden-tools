@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "wardentools:block/echo_lantern" }
+  }
+}

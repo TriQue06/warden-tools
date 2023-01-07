@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "wardentools:heart_of_the_warden"
+    },
+    "#": {
+      "item": "minecraft:echo_shard"
+    },
+    "X": {
+      "item": "wardentools:soul_of_the_warden"
+    }
+  },
+  "pattern": [
+    "  S",
+    " X ",
+    "#  "
+  ],
+  "result": {
+    "item": "wardentools:echo_staff"
+  }
+}

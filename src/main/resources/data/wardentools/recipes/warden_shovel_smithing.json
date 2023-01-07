@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "wardentools:sculkified_netherite_shovel"
+  },
+  "addition": {
+    "item": "wardentools:heart_of_the_warden"
+  },
+  "result": {
+    "item": "wardentools:warden_shovel"
+  }
+}

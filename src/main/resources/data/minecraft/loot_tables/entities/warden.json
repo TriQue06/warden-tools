@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "wardentools:sculk_crystal_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "wardentools:heart_of_the_warden",
+          "conditions": [
+            {
+              "condition": "minecraft:killed_by_player"
+            },
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "wardentools:soul_of_the_warden",
+          "conditions": [
+            {
+              "condition": "minecraft:killed_by_player"
+            },
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.33
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_hoe"
+  },
+  "addition": {
+    "item": "minecraft:echo_shard"
+  },
+  "result": {
+    "item": "wardentools:sculkified_netherite_hoe"
+  }
+}

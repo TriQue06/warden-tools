@@ -1,0 +1,48 @@
+{
+  "item.wardentools.sculkified_netherite_axe": "Скалковый Незеритовый Топор",
+  "item.wardentools.sculkified_netherite_pickaxe": "Скалковая Незеритовая Кирка",
+  "item.wardentools.sculkified_netherite_sword": "Скалковый Незеритовый Меч",
+  "item.wardentools.sculkified_netherite_shovel": "Скалковая Незеритовая Лопата",
+  "item.wardentools.sculkified_netherite_hoe": "Скалковая Незеритовая Мотыга",
+  "item.wardentools.sculkified_netherite_helmet": "Скалковый Незеритовый Шлем",
+  "item.wardentools.sculkified_netherite_chestplate": "Скалковый Незеритовый Нагрудник",
+  "item.wardentools.sculkified_netherite_leggings": "Скалковые Незеритовые Поножи",
+  "item.wardentools.sculkified_netherite_boots": "Скалковые Незеритовые Ботинки",
+
+  "item.wardentools.warden_axe": "§bТопор Хранителя",
+  "item.wardentools.warden_pickaxe": "§bКирка Хранителя",
+  "item.wardentools.warden_sword": "§bМеч Хранителя",
+  "item.wardentools.warden_shovel": "§bЛопата Хранителя",
+  "item.wardentools.warden_hoe": "§bМотыга Хранителя",
+  "item.wardentools.warden_helmet": "§bШлем Хранителя",
+  "item.wardentools.warden_chestplate": "§bНагрудник Хранителя",
+  "item.wardentools.warden_leggings": "§bПоножи Хранителя",
+  "item.wardentools.warden_boots": "§bБотинки Хранителя",
+
+  "item.wardentools.sculk_apple": "Скалковое Яблоко",
+  "item.wardentools.heart_of_the_warden": "§bСердце Хранителя",
+  "item.wardentools.soul_of_the_warden": "§bДуша Хранителя",
+
+
+  "itemGroup.wardentools.warden_tools": "Warden Tools",
+
+  "block.wardentools.sculk_crystal_block": "Блок скалкового кристалла",
+  "block.wardentools.budding_sculk": "Растущий Скалк",
+  "block.wardentools.echo_cluster": "Скалковая Друза",
+  "block.wardentools.echo_bud": "Скалковый Бутон",
+
+  "item.wardentools.disc_fragment_fizz": "Фрагмент Диска",
+  "item.wardentools.disc_fragment_fizz.desc": "Музыкальная Пластинка - Fizz",
+  "item.wardentools.music_disc_fizz": "§bМузыкальная Пластинка",
+  "item.wardentools.music_disc_fizz.desc": "Johan Johnson & Peter Hont - Fizz",
+
+  "item.wardentools.disc_fragment_astray_archipelago": "Фрагмент Диска",
+  "item.wardentools.disc_fragment_astray_archipelago.desc": "Музыкальная Пластинка - Astray Archipelago",
+  "item.wardentools.music_disc_astray_archipelago": "§bМузыкальная Пластинка",
+  "item.wardentools.music_disc_astray_archipelago.desc": "Peter Hont - Astray Archipelago",
+
+  "block.wardentools.loot_vase": "Древняя Ваза с Вещами",
+  "block.wardentools.echo_lantern": "Эхо Лампа",
+
+  "item.wardentools.echo_staff": "§bЭхо Посох"
+}

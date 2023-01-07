@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "wardentools:block/sculk_crystal_block" }
+  }
+}
